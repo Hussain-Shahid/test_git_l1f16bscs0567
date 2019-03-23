@@ -1,3 +1,7 @@
 "Name: Hussain Shahid" 
 "Reg No: l1f16bscs0567"
+<<<<<<< HEAD
 "University: Ucp"
+=======
+"University: University of central Punjab"
+>>>>>>> 631edcc6a5f1833fb64921da106795afde1e4c85
